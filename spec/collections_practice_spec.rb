@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'pry'
 
 describe 'collections practice vol 2.' do
 
@@ -121,7 +122,7 @@ describe 'collections practice vol 2.' do
   end
 
   describe '#remove_non_strings' do
-    
+
     # Hint: Use the method "class"  "blake".class
 
     # Question 4
